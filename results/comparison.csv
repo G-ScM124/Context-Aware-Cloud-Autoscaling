@@ -1,1 +1,8 @@
-
+Metric,Threshold,Context-Aware
+Average Servers,5.932,6.276
+Total Server-Time (server-seconds),2966.0,3138.0
+Average Latency (ms),88.41348993384771,80.28707030264123
+95th Percentile Latency (ms),130.53403408552157,123.9021497405648
+SLA Violations,1.0,1.0
+Total Dropped Requests,0.0,0.0
+Scaling Actions,8.0,11.0
